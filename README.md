@@ -662,6 +662,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+It includes work derived from [`human_file_size`](https://github.com/vxern/human_file_size), with original attribution retained in the license notice.
 
 ## Changelog
 
